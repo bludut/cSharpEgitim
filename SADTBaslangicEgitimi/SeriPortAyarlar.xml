@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SeriPortConfig>
+<Port_Name>COM1</Port_Name>
+<BaudRate>115200</BaudRate>
+</SeriPortConfig>
