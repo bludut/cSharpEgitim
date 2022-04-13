@@ -1,0 +1,1 @@
+driverquery /v > Devices.txt
